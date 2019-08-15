@@ -21,4 +21,6 @@ int main()
 		printf(" \n Number: %d \n", current_number);
 	}
 	
+	return 0;
+	
 }
